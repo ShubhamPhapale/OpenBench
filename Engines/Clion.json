@@ -1,6 +1,7 @@
 {
-    "private" : true,
+    "private" : false,
     "nps"     : 750000,
+    "base"     : "main",
     "source"  : "https://github.com/ShubhamPhapale/Clion",
 
     "build" : {
